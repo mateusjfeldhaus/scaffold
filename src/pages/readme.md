@@ -1,0 +1,1 @@
+Files .html, .js and specific .css

@@ -1,0 +1,1 @@
+Keep images and extra files
